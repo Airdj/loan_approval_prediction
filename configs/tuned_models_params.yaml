@@ -1,0 +1,14 @@
+lgbm_params:
+  params:
+    n_estimators: 585
+    learning_rate: 0.04956170906241292
+    max_depth: 11
+    num_leaves: 162
+    min_child_samples: 30
+    subsample: 0.6866360254626283
+    colsample_bytree: 0.9141683007483186
+    lambda_l1: 1.467290761967388
+    lambda_l2: 5.54165103631272
+    min_split_gain: 0.05860990503969021
+    boosting_type: dart
+  score: 0.9472973881180072

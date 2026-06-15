@@ -1,0 +1,6 @@
+lgbm_params:
+  random_state: 12
+  verbose: -1
+
+xgb_params:
+  random_state: 12
